@@ -2,6 +2,8 @@
 
 This script synchronizes posting schedules across all your Buffer social media channels to match your Twitter schedule. It uses Playwright to automate the process through Buffer's web interface.
 
+**IMPORTANT: This will clear any existing schedule you have set and replace it with the schedule you set in your Twitter channel.**
+
 ## Prerequisites
 
 - Node.js (v16 or higher)
